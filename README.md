@@ -1,5 +1,5 @@
 # My-Portfolio
-# Hi, I'm Nadia Gul 👋
+# Hi, I'm Nadia Gul 
 
 ### Research • Data Analysis • Machine Learning • Technical Writing
 
@@ -7,7 +7,7 @@ I'm an **MS Computer Science graduate from FAST-NUCES** with experience in resea
 
 My work focuses on applying data-driven and AI-based approaches to real-world problems, with research interests in **Machine Learning, Data Mining, Federated Learning, Explainable AI, and research methodology**.
 
-## 🔬 Research & Academic Work
+##  Research & Academic Work
 
 * **Systematic Literature Review — AI Clinical Trial Matching**
 
@@ -21,7 +21,7 @@ My work focuses on applying data-driven and AI-based approaches to real-world pr
   * Master's thesis focused on efficient client selection and lightweight models.
   * Studying non-IID data, communication cost, convergence, and fairness.
 
-## 📊 Data Analysis & Visualization
+## Data Analysis & Visualization
 
 * Python
 * Excel
@@ -32,7 +32,7 @@ My work focuses on applying data-driven and AI-based approaches to real-world pr
 * Exploratory data analysis
 * Data visualization
 
-## 🤖 Machine Learning & AI
+##  Machine Learning & AI
 
 * Machine Learning
 * Deep Learning
@@ -43,7 +43,7 @@ My work focuses on applying data-driven and AI-based approaches to real-world pr
 * PyTorch
 * Scikit-learn
 
-## 📝 Research & Technical Writing
+##  Research & Technical Writing
 
 * Systematic Literature Reviews
 * Research Reports
@@ -53,7 +53,7 @@ My work focuses on applying data-driven and AI-based approaches to real-world pr
 * Microsoft Word
 * PowerPoint
 
-## 💼 Experience
+##  Experience
 
 **Artificial Intelligence Intern — Genesys Research Lab**
 
@@ -81,7 +81,7 @@ My work focuses on applying data-driven and AI-based approaches to real-world pr
 * Write Professional Emails in English — Georgia Institute of Technology
 * The Complete Web Development Bootcamp — Udemy
 
-## 📌 Featured Projects
+##  Featured Projects
 
 * Explainable Image Captioning with BLIP
 * Resource-Aware Federated Learning
@@ -91,12 +91,9 @@ My work focuses on applying data-driven and AI-based approaches to real-world pr
 * Heart Disease Prediction
 * FIFA Interactive Data Visualization
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * **LinkedIn:** [Nadia Gul](https://www.linkedin.com/in/nadia-gull-7ba818323/)
 * **Email:** [nadiagul230200@gmail.com](mailto:nadiagul230200@gmail.com)
 
----
-
-⭐ Feel free to explore my repositories and research projects.
 
